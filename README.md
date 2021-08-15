@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alanescarcha11@gmail.com**
 
-- 😄 My Pronouns [he/him](he/him)
+- 😄 My Pronouns (he/him)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
