@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/alanescarcha/alanescarcha/main/wave.gif" width="30px">, I'm Alan</h1>
+<h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">I'm passionate about servers and selling hosting, my current goal is to own a hosting company and sell services worldwide. My dream is to travel the world working remotely 💻🌎</h3>
 
 - 🔭 I’m currently working on [SkyNode](https://www.skynode.pro/)
