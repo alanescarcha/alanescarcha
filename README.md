@@ -9,7 +9,7 @@
 
 - 🙌 My Fiverr [https://www.fiverr.com/alanescarcha](https://www.fiverr.com/alanescarcha)
 
-- 📫 How to reach me `alanescarcha11@gmail.com`
+- 📫 How to reach me alanescarcha11@gmail.com
 
 - 😄 My Pronouns `he/him`
 
