@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="https://alanescarcha.com/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Alan"></a>
-</p>
+<h1 align="center">
+  <a href="https://www.alanescarcha.com/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Alan"></a>
+</h1>
 <h3 align="center">I'm passionate about servers and selling hosting, my current goal is to own a hosting company and sell services worldwide. My dream is to travel the world working remotely 💻🌎</h3>
 
 - 🔭 I’m currently working on [SkyNode](https://www.skynode.pro/)
