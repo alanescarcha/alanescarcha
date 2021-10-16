@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Alan">
-</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Alan</h1>
 <h3 align="center">I'm passionate about servers and selling hosting, my current goal is to own a hosting company and sell services worldwide. My dream is to travel the world working remotely 💻🌎</h3>
 
 - 🔭 I’m currently working on [SkyNode](https://www.skynode.pro/)
