@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SkyNode](https://www.skynode.pro/)
 
-- 🌱 I’m currently learning `Discord Bots (NodeJS)` & `Hosting`
+- 🌱 I’m currently learning `3D Printing` & `Hosting Sales`
 
 - 👨‍💻 All of my projects are available at [https://www.alanescarcha.com](https://www.alanescarcha.com)
 
