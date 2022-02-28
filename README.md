@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Alan</h1>
 <h3 align="center">I'm passionate about servers and selling hosting, my current goal is to own a hosting company and sell services worldwide. My dream is to travel the world working remotely 💻🌎</h3>
 
-- 🔭 I’m currently working on [SkyNode](https://www.skynode.pro/)
-
 - 🌱 I’m currently learning `3D Printing` & `Hosting Sales`
 
 - 👨‍💻 All of my projects are available at [https://www.alanescarcha.com](https://www.alanescarcha.com)
