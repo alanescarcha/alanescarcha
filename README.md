@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me</h3>
 
-<p align="left">
-<a href="https://linkedin.com/in/alanescarcha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanescarcha" height="30" width="40" /></a></p>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://linkedin.com/in/alanescarcha))
+
 <h3>My Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,react,astro,alpinejs,arduino,ps,ae,pr,au,ai,figma,firebase,aws,bash,bootstrap,jquery,cloudflare,discord,bots,docker,git,github,grafana,prometheus,linux,mongodb,mysql,nginx,nodejs,php,postgres,postman,py,raspberrypi,stackoverflow,tailwind,vercel,vscode,webpack,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,react,astro,alpinejs,arduino,ps,ae,pr,au,ai,figma,firebase,aws,bash,bootstrap,jquery,cloudflare,discord,bots,docker,git,github,grafana,prometheus,linux,mongodb,mysql,nginx,nodejs,php,postgres,postman,py,raspberrypi,stackoverflow,tailwind,vercel,vscode,webpack,wordpress)](https://github.com/alanescarcha)
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=alanescarcha&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanescarcha&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
