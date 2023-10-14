@@ -11,11 +11,11 @@
 
 - 😄 My Pronouns `he/him`
 
-<h3 align="left">Connect with me</h3>
+## Connect with me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanescarcha)
 
-<h3>My Skills</h3>
+## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,react,astro,alpinejs,arduino,ps,ae,pr,au,ai,figma,firebase,aws,bash,bootstrap,jquery,cloudflare,discord,bots,docker,git,github,grafana,prometheus,linux,mongodb,mysql,nginx,nodejs,php,postgres,postman,py,raspberrypi,stackoverflow,tailwind,vercel,vscode,webpack,wordpress)](#)
 
