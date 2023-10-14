@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://linkedin.com/in/alanescarcha))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanescarcha)
 
 <h3>My Skills</h3>
 
