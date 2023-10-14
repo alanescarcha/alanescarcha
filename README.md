@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://i.imgur.com/LR8Vny7.gif" width="28"/>, I'm Alan</h1>
+<h1 align="center">Hi <img src="https://i.imgur.com/LR8Vny7.gif" width="28">, I'm Alan</h1>
 <h3 align="center">I'm passionate about servers and selling hosting, my current goal is to own a hosting company and sell services worldwide. My dream is to travel the world working remotely ✈️🌎</h3>
 
 - 💙 Founder & CEO [VexyHost](https://vexyhost.com/)
