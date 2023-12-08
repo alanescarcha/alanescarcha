@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning `Full Stack Node.JS Skills` & `SysAdmin Skills`
 
-- 👨‍💻 All of my projects are available at [https://www.alanescarcha.com](https://www.alanescarcha.com)
+- 👨‍💻 My main project and business [https://vexyhost.com](https://vexyhost.com)
 
 - 📫 How to reach me alan@vexyhost.com
 
