@@ -3,7 +3,7 @@
 
 - 💙 Founder & CEO [VexyHost](https://vexyhost.com/)
 
-- 🌱 I’m currently learning `Full Stack Node.JS Skills` & `SysAdmin Skills`
+- 🌱 I’m currently learning `Next.js` & `NestJS`
 
 - 👨‍💻 My main project and business [https://vexyhost.com](https://vexyhost.com)
 
