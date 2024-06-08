@@ -11,6 +11,8 @@
 
 - 😄 My Pronouns `he/him`
 
+![VexyHost](https://cdn.vexyhost.com/banner.gif)
+
 ## Connect with me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanescarcha)
