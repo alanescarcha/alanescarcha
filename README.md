@@ -7,8 +7,6 @@
 
 - 👨‍💻 My main project and business [https://vexyhost.com](https://vexyhost.com)
 
-- 📫 How to reach me alan@vexyhost.com
-
 - 😄 My Pronouns `he/him`
 
 ![VexyHost](https://cdn.vexyhost.com/banner.gif)
