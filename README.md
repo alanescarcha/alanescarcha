@@ -13,5 +13,5 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,react,astro,alpinejs,arduino,ps,ae,pr,au,ai,figma,firebase,aws,bash,bootstrap,jquery,cloudflare,discord,bots,docker,git,github,grafana,prometheus,linux,mongodb,mysql,nginx,nodejs,php,postgres,postman,py,raspberrypi,stackoverflow,tailwind,vercel,vscode,webpack,wordpress)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,react,astro,alpinejs,arduino,bash,cloudflare,discord,docker,git,grafana,linux,mongodb,mysql,nginx,nodejs,php,postgres,raspberrypi,tailwind,vscode,webpack)](#)
 
