@@ -11,14 +11,7 @@
 
 ![VexyHost](https://cdn.vexyhost.com/banner.gif)
 
-## Connect with me
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alanescarcha)
-
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,react,astro,alpinejs,arduino,ps,ae,pr,au,ai,figma,firebase,aws,bash,bootstrap,jquery,cloudflare,discord,bots,docker,git,github,grafana,prometheus,linux,mongodb,mysql,nginx,nodejs,php,postgres,postman,py,raspberrypi,stackoverflow,tailwind,vercel,vscode,webpack,wordpress)](#)
-
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=alanescarcha&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanescarcha&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
